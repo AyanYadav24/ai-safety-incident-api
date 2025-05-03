@@ -31,7 +31,7 @@ Before running the project, make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ai-safety-incident-api.git
+   git clone https://github.com/AyanYadav24/ai-safety-incident-api.git
    ```
 
 2. **Install dependencies**:
